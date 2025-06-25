@@ -8,5 +8,5 @@
 
 📚 Currently expanding my knowledge in systems programming, embedded systems, and full-stack development.
 
-Feel free to connect or check out my projects!
+
 
